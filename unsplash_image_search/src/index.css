@@ -19,6 +19,11 @@ body {
   color: var(--primary-color);
 }
 
+.error {
+  color: red;
+  text-align: center;
+}
+
 /* common css starts */
 
 .container {
